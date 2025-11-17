@@ -1,0 +1,2 @@
+# The-genetic-algorithn-using-turning-CNN-hyperparamter-for-yoga-pose-estimation.
+Yoga pose estimation is essential for fitness, rehabilitation, and posture correction.  2) Convolutional Neural Networks (CNNs) perform well, but manual hyperparameter tuning is slow and    inefficient.  3) Genetic Algorithm (GA) provides an automated, evolutionary approach to optimize CNN hyperparameters for better accuracy and faster convergence
